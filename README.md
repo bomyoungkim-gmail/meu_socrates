@@ -3,7 +3,7 @@
 
 **O Problema**: Muitos pais exigem o estudo, mas, frequentemente, tanto eles quanto os estudantes, carecem de métodos de estudo cientificamente eficazes. A ausência de uma abordagem estruturada pode tornar o aprendizado frustrante e ineficaz.
 
-**A Solução**: Este projeto visa preencher essa lacuna por meio de um Agente de Inteligência Artificial Conversacional. Este agente será capaz de guiar o usuário na adoção e prática de metodologias de aprendizagem cientificamente comprovadas.
+**A Proposta**: Este projeto visa preencher essa lacuna por meio de um Agente de Inteligência Artificial Conversacional. Este agente será capaz de guiar o usuário na adoção e prática de metodologias de aprendizagem cientificamente comprovadas.
 
 **Tecnologia**: O Agente IA está sendo desenvolvido utilizando os frameworks LangChain e LangGraph para orquestração de Large Language Models (LLMs). Essa arquitetura garante o encadeamento lógico de passos e a gestão do estado complexo da conversação, crucial para a aplicação de métodos de estudo passo a passo.
 
